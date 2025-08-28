@@ -1,0 +1,13 @@
+:root {
+--bluecolor: #2A3855;
+--paracolor: #6a6a6a;
+--sectioncolor: #fafafa;
+}
+#main1{
+    background-color: var(--bluecolor);
+padding-top: 10px;
+}
+.main-para{
+font-size: 13px;
+
+}
