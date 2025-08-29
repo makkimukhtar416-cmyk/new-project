@@ -1,13 +1,71 @@
 :root {
---bluecolor: #2A3855;
---paracolor: #6a6a6a;
---sectioncolor: #fafafa;
+    --bluecolor: #2A3855;
+    --paracolor: #6a6a6a;
+    --sectioncolor: #fafafa;
+    --yellow: #fdd428;
 }
-#main1{
-    background-color: var(--bluecolor);
-padding-top: 10px;
-}
-.main-para{
-font-size: 13px;
 
+#main1 {
+    background-color: var(--bluecolor);
+    padding-top: 20px;
+}
+
+.main-para {
+    font-size: 13px;
+
+}
+
+header {
+    min-height: 100vh;
+    background-image: url(../images/header-1.jpg);
+    background-size: cover;
+    width: 100%;
+}
+
+.nav-link {
+    font-size: 18px;
+}
+
+.nav-item a {
+    color: var(--bluecolor) !important;
+
+}
+
+.nav-btn {
+    border-radius: 50px;
+    padding: 5px;
+color: var(--bluecolor) !important;
+border: 2px solid var(--bluecolor);
+}
+.nav-btn:hover{
+color: white !important;
+background-color: var(--bluecolor);
+transition: all .5s ease;
+}
+.main-head{
+font-size: 68px;
+color: var(--bluecolor);
+
+}
+
+.head-para{
+font-size: 29px;
+color: var(--bluecolor);
+line-height: 100%;
+margin-bottom: 50px;
+}
+.header-content{
+    padding-top: 140px;
+}
+.btnmain-1{
+color: white;
+background-color: var(--bluecolor);
+border: 2px solid var(--bluecolor);
+font-size: 14px;
+}
+.btnmain-2{
+color: black;
+background-color: var(--yellow);
+border: 2px solid var(--yellow);
+font-size: 14px;
 }
