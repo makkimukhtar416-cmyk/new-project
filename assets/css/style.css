@@ -69,3 +69,59 @@ background-color: var(--yellow);
 border: 2px solid var(--yellow);
 font-size: 14px;
 }
+.line1{
+width: 70px;
+height: 3px;
+color: var(--bluecolor);
+}
+.welhead{
+color: var(--bluecolor);
+
+}
+#welcome{
+color: var(--sectioncolor);
+padding: 90px;
+
+}
+.welpara{
+    color: var(--paracolor);
+    font-size: 17px;
+}
+.welicon{
+font-size: 38px;
+padding: 20px 30px;
+border: 1px solid rgb(211, 211, 211);
+border-radius: 100%;
+margin: auto;
+background-color: #f8f8f8;
+}
+#services{
+background: var(--sectioncolor);
+
+}
+.service1{
+border-top-right-radius: 0 !important;
+border-bottom-right-radius: 0 !important;
+
+}
+.service2{
+
+border-top-left-radius: 0 !important;
+border-bottom-left-radius: 0 !important;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
