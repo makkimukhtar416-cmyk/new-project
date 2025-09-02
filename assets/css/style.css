@@ -134,6 +134,28 @@ color: var(--bluecolor);
 font-size: 40px;
 
 }
+#blue{
+background: var(--bluecolor);
+
+}
+.contain{
+border: 2px solid var(--yellow);
+
+}
+.submit{
+color: black;
+background-color: var(--yellow) !important;
+
+}
+.input-2{
+    margin-top: 50px;
+}
+.input-main div input{
+outline: 0;
+}
+
+
+
 
 
 
