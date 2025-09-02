@@ -100,18 +100,40 @@ background: var(--sectioncolor);
 
 }
 .service1{
-border-top-right-radius: 0 !important;
-border-bottom-right-radius: 0 !important;
+border-top-left-radius: 10px !important;
+
 
 }
 .service2{
 
-border-top-left-radius: 0 !important;
-border-bottom-left-radius: 0 !important;
+border-bottom-left-radius: 10px !important;
+
 
 }
+#investment{
+background: var(--bluecolor);
+
+}
+.btn-ins{
+padding:12px 45px ;
+border-radius: 50px;
+color: var(--bluecolor);
+font-size: 12px;
+}
+.get-head{
+color: #2A3855;
 
 
+}
+.get-para{
+color: var(--paracolor);
+
+}
+.get-icon{
+color: var(--bluecolor);
+font-size: 40px;
+
+}
 
 
 
