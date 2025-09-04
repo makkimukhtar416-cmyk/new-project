@@ -194,8 +194,29 @@ font-size: 18px;
 background-color: #f2f2f2;
 
 }
+.last-para{
+color: var(--paracolor);
 
+}
+.last-head{
+color: var(--bluecolor);
+font-size: 21px;
+}
+.last-head:hover{
+    text-decoration: underline;
+    color: var(--bluecolor);
+    transition: all 5s ease;
+}
+.last-div{
+background-color: #0f1c35 !important;
 
+}
+.foter i{
+color: white;
+background-color: #435579;
+padding: 13px;
+border-radius: 6px;
+}
 
 
 
