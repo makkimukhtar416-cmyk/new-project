@@ -6,7 +6,7 @@
 }
 
 #main1 {
-    background-color: var(--bluecolor);
+    background-color: #0f1c35;
     padding-top: 20px;
 }
 
@@ -135,7 +135,7 @@ font-size: 40px;
 
 }
 #blue{
-background: var(--bluecolor);
+background-color: #2A3855;
 
 }
 .contain{
